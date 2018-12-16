@@ -4,9 +4,9 @@
 
 var config = {
   // - Your app's id on moneypot.com
-  app_id: 3013,                             // <----------------------------- EDIT ME!
+  app_id: 3014,                             // <----------------------------- EDIT ME!
   // - Displayed in the navbar
-  app_name: 'dice-betting',
+  app_name: 'dice-betting2',
   // - For your faucet to work, you must register your site at Recaptcha
   // - https://www.google.com/recaptcha/intro/index.html
   recaptcha_sitekey: '6LfPN4IUAAAAAG4bWzrR3pS5iz604mq8riH1ky1h',  // <----- EDIT ME!
